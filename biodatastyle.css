@@ -1,0 +1,12 @@
+.container {
+    margin: 40px 30px; 
+    font-family: 'Indie Flower', cursive;
+}
+.col {
+    border: 1px dashed black;
+    padding-top: 75px; 
+    margin-right: 20px;
+}
+.col2 {
+    border: 1px solid black
+}
